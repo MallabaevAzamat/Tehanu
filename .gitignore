@@ -1,0 +1,6 @@
+bin/*
+packages/*     
+paket/paket.exe       
+out*.txt
+paket.lock
+TestResult.xml

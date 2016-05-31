@@ -1,0 +1,18 @@
+[submodule "Tehanu.Attributes.Parser"]
+	path = Tehanu.Attributes.Parser
+	url = git://github.com/MallabaevAzamat/Tehanu.Attributes.Parser.git
+[submodule "Tehanu.Attributes"]
+	path = Tehanu.Attributes
+	url = git://github.com/MallabaevAzamat/Tehanu.Attributes
+[submodule "Tehanu.Core"]
+	path = Tehanu.Core
+	url = git://github.com/MallabaevAzamat/Tehanu.Core
+[submodule "Tehanu.FStar.Printer"]
+	path = Tehanu.FStar.Printer
+	url = git://github.com/MallabaevAzamat/Tehanu.FStar.Printer.git
+[submodule "Tehanu.Tests"]
+	path = Tehanu.Tests
+	url = git://github.com/MallabaevAzamat/Tehanu.Tests.git
+[submodule "Tehanu.FSharp"]
+	path = Tehanu.FSharp
+	url = git://github.com/MallabaevAzamat/Tehanu.FSharp.git
