@@ -16,3 +16,6 @@
 [submodule "Tehanu.FSharp"]
 	path = Tehanu.FSharp
 	url = git://github.com/MallabaevAzamat/Tehanu.FSharp.git
+[submodule "FStar"]
+	path = FStar
+	url = git://github.com/YaccConstructor/FStar.git
