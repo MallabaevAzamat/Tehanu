@@ -1,6 +1,6 @@
 bin/*
 packages/*     
-paket/paket.exe       
+.paket/paket.exe       
 out*.txt
 paket.lock
 TestResult.xml
